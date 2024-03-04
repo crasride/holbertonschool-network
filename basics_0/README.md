@@ -1,4 +1,4 @@
-<h1 align="center">Double Circular Linked List</h1>
+<h1 align="center">Networking basics #0</h1>
 
 ### Resources
 
